@@ -16,8 +16,8 @@ def phase_connectivity_xy(signal_x, signal_y, measure_name, freq_select, fs, wav
         (array): connectivity estimates at specified frequencies
     """
     
-    print(f'PLV and PLI will be implemented soon')
+    print('PLV and PLI will be implemented soon')
     res = 0
-    print(f'Added another line for branch feature/function-1')
+    print('With wPLI as well')
     
     return res
